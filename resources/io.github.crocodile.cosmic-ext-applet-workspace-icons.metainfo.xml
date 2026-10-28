@@ -16,10 +16,10 @@
   <description>
     <p>Workspace Icons adds application icons to the COSMIC panel's numbered workspaces, so you can see where your windows are at a glance.</p>
     <p xml:lang="cs">Applet „Ikony pracovních ploch“ přidává ikony aplikací k číslovaným pracovním plochám panelu COSMIC, takže na první pohled uvidíte, kde se nacházejí vaše okna.</p>
-    <p xml:lang="pl">Ikony Obszarów Roboczych dodaje ikony aplikacji do ponumerówanych obszarów roboczych na panelu COSMIC, pokazując na pierwszy rzut oka gdzie są twoje aplikacji.</p>
+    <p xml:lang="pl">Ikony Obszarów Roboczych dodaje ikony aplikacji do ponumerowanych obszarów roboczych na panelu COSMIC, pokazując na pierwszy rzut oka gdzie są twoje aplikacje.</p>
     <p>It keeps the normal workspace switching, scrolling, and overview behavior while adding compact indicators for open, minimized, and maximized windows.</p>
     <p xml:lang="cs">Zachovává běžné přepínání pracovních ploch, rolování i chování přehledu a zároveň přidává kompaktní indikátory otevřených, minimalizovaných a maximalizovaných oken.</p>
-     <p xml:lang="pl">Zachowane jest normalne przełączanie obszarów roboczych, przewijanie myszką, i zachowanie podglądu jednocześnie dodając kompaktowe znaczniki dla otwartych, zminimalizowany i zmaksymalizowanych okien.</p>
+     <p xml:lang="pl">Zachowane jest normalne przełączanie obszarów roboczych, przewijanie myszką, i zachowanie podglądu jednocześnie dodając kompaktowe znaczniki dla otwartych, zminimalizowanych i zmaksymalizowanych okien.</p>
   </description>
   <screenshots>
     <screenshot type="default">
@@ -63,13 +63,13 @@
       <image>https://raw.githubusercontent.com/crocodile/cosmic-ext-applet-workspace-icons/main/resources/screenshots/workspace-icons-store-7.png</image>
       <caption>Workspace pills with reduced spacing between application icons.</caption>
       <caption xml:lang="cs">Indikátory pracovních ploch se zmenšenými rozestupy mezi ikonami aplikací.</caption>
-      <caption xml:lang="pl">Wskaźniki obszarów roboczych z zmniejszoną odległością między ikonami aplikacji.</caption>
+      <caption xml:lang="pl">Wskaźniki obszarów roboczych ze zmniejszoną odległością między ikonami aplikacji.</caption>
     </screenshot>
     <screenshot>
       <image>https://raw.githubusercontent.com/crocodile/cosmic-ext-applet-workspace-icons/main/resources/screenshots/workspace-icons-store-8.png</image>
       <caption>Application icons shown beside workspace numbers in the COSMIC panel.</caption>
       <caption xml:lang="cs">Ikony aplikací zobrazené vedle čísel pracovních ploch v panelu COSMIC.</caption>
-      <caption xml:lang="pl">Ikony aplikacji pokazane pomiędzy numerami obszarów roboczych w panelu COSMIC.</caption>
+      <caption xml:lang="pl">Ikony aplikacji pokazane obok numerów obszarów roboczych w panelu COSMIC.</caption>
     </screenshot>
   </screenshots>
   <launchable type="desktop-id">io.github.crocodile.cosmic-ext-applet-workspace-icons.desktop</launchable>
